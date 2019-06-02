@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 App Icon
 
 ![123456](https://user-images.githubusercontent.com/43273993/58757269-1e4b9780-8527-11e9-90cb-48e65d06331a.png)
+
+
+![screenshot_2](https://user-images.githubusercontent.com/43273993/58757317-06284800-8528-11e9-8c72-1e028daf8123.png)
