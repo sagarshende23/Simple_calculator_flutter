@@ -6,6 +6,8 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
+ <a href='https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
