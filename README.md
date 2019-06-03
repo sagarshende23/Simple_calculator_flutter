@@ -1,4 +1,4 @@
-# calculator
+# SImple Calculator
 
 A new Flutter application.
 
@@ -19,3 +19,6 @@ App Icon
 Screenshot
 
 ![screenshot_2](https://user-images.githubusercontent.com/43273993/58757317-06284800-8528-11e9-8c72-1e028daf8123.png)
+
+## 🐛 Bugs/Requests #
+If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
