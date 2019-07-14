@@ -6,9 +6,6 @@
   <br>
 </h1>
 
-
-
-
 ## 📱 Screenshots #
 
 <p align="center">
@@ -24,11 +21,6 @@
 * Addition, Subtraction, Multiplication, Division, Percent Operation
 * Fast Result
 * Attractive & Colorful Material UI 
-
-## Simple Calculator : Easy & Fast - Apps On Google Play
-
-
-
 
 ## 🤝 Show Some Support #
 If you liked the app give this repo a ⭐️ 
