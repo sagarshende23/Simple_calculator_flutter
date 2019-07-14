@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/1.png" width="200" hspace="4">
 </p>
+                                                      <p align="center"> Simple Calculator </p>
 
 
 ## 📱 Screenshots #
@@ -19,6 +20,13 @@
   <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/3.jpg" width="250" hspace="4">
   <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/4.jpg" width="250" hspace="4">
 </p>
+
+## 🤝 Show Some Support #
+If you liked the app give this repo a ⭐️ 
+
+## ☑️AllTechSavvy
+
+<a href="https://play.google.com/store/apps/dev?id=7943055463828021229"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> 
 
 ## 🐛 Bugs/Requests #
 If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
