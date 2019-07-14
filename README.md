@@ -17,6 +17,12 @@
   <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/4.jpg" width="250" hspace="4">
 </p>
 
+## Key Features
+
+* Addition, Subtraction, Multiplication, Division, Percent Operation
+* Fast Result
+* Attractive & Colorful Material UI 
+
 ## Simple Calculator : Easy & Fast - Apps On Google Play
 
 <p align="center">
