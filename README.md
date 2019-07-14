@@ -1,16 +1,15 @@
-
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/1.png" width="200" hspace="4"></a>
+  <br>
+  Simple Calculator : Easy & Fast
+  <br>
+</h1>
 ## Simple Calculator : Easy & Fast - Apps On Google Play
 
 <p align="center">
  <a href='https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
 </p>
-
-## Simple Calculator : Easy & Fast #
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/1.png" width="200" hspace="4">
-</p>
-                                                      <p align="center"> Simple Calculator </p>
 
 
 ## 📱 Screenshots #
