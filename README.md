@@ -1,9 +1,9 @@
 
 ## Simple Calculator : Easy & Fast - Apps On Google Play
 
-
+<p align="center">
  <a href='https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
-
+</p>
 
 ## Simple Calculator : Easy & Fast #
 
@@ -24,9 +24,6 @@
 ## 🤝 Show Some Support #
 If you liked the app give this repo a ⭐️ 
 
-## ☑️AllTechSavvy
-
-<a href="https://play.google.com/store/apps/dev?id=7943055463828021229"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> 
 
 ## 🐛 Bugs/Requests #
 If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
