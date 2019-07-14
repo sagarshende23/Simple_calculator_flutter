@@ -1,26 +1,24 @@
-# Simple Calculator
 
-A new Flutter application.
+## Simple Calculator : Easy & Fast - Apps On Google Play
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
  <a href='https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Simple Calculator : Easy & Fast #
 
-App Icon
-
-![123456](https://user-images.githubusercontent.com/43273993/58757269-1e4b9780-8527-11e9-90cb-48e65d06331a.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/1.png" width="200" hspace="4">
+</p>
 
 
-Screenshot
+## 📱 Screenshots #
 
-![screenshot_2](https://user-images.githubusercontent.com/43273993/58757317-06284800-8528-11e9-8c72-1e028daf8123.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/2.png" width="250" hspace="4">
+  <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/3.jpg" width="250" hspace="4">
+  <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/4.jpg" width="250" hspace="4">
+</p>
 
 ## 🐛 Bugs/Requests #
 If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
