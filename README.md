@@ -7,11 +7,6 @@
 </h1>
 
 
-## Simple Calculator : Easy & Fast - Apps On Google Play
-
-<p align="center">
- <a href='https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
-</p>
 
 
 ## 📱 Screenshots #
@@ -21,6 +16,13 @@
   <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/3.jpg" width="250" hspace="4">
   <img src="https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/4.jpg" width="250" hspace="4">
 </p>
+
+## Simple Calculator : Easy & Fast - Apps On Google Play
+
+<p align="center">
+ <a href='https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
+</p>
+
 
 ## 🤝 Show Some Support #
 If you liked the app give this repo a ⭐️ 
