@@ -52,6 +52,8 @@ If you encounter any problems feel free to open an issue. If you feel the librar
 
 ## 💰 Donation
 
+If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement! ^^ You can also scan the qr code below or Donate to this project, donation to Author.
+
 <img src="https://github.com/sagarshende23/Simple_calculator_flutter/blob/master/Donation%20Page.jpg">
 
 
