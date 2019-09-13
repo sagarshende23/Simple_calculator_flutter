@@ -52,6 +52,8 @@ If you encounter any problems feel free to open an issue. If you feel the librar
 
 ## 💰 Donation
 
+<img width="400" alt="inceptive-donate_artboard_2_2x_2x" src="https://user-images.githubusercontent.com/43273993/64881998-ca9a2f80-d679-11e9-98ec-e4f0d5470dbd.png">
+
 If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement! ^^ You can also scan the qr code below or Donate to this project, donation to Author.
 
 <img src="https://github.com/sagarshende23/Simple_calculator_flutter/blob/master/Donation%20Page.jpg">
